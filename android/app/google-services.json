@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1015745654862",
+    "firebase_url": "https://esp-iot-test-283908.firebaseio.com",
+    "project_id": "esp-iot-test-283908",
+    "storage_bucket": "esp-iot-test-283908.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015745654862:android:906f258ac6a4336ef8d31f",
+        "android_client_info": {
+          "package_name": "com.example.firestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1015745654862-9uatt9lhnl0pd4ntefs187s6app9qar6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXxo2nPS_1N4aqrNJTijAiJ-EMEIJvH7k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1015745654862-9uatt9lhnl0pd4ntefs187s6app9qar6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
